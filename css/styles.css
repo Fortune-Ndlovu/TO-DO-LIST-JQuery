@@ -1,0 +1,45 @@
+/* top search bar section */
+.icon {
+  margin-top: 8px;
+  text-align: right;
+}
+
+.logo {
+  text-align: left;
+}
+
+.to-do,
+a:link {
+  color: #a39461;
+}
+
+#search-bar {
+  margin-top: 8px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+#heading {
+  color: #a39461;
+  text-align: center;
+}
+
+#theSubmitButton {
+  padding: 10px;
+  transition: 250ms ease-in-out;
+  background-color: #a39461;
+  color: white;
+}
+
+#theSubmitButton:hover {
+  transform: translateY(-5px);
+  box-shadow: 5px 10px 18px #d1d6ca;
+  background-color: rgb(26, 24, 24);
+}
+
+form,
+#thetable {
+  color: rgb(26, 24, 24)
+}
